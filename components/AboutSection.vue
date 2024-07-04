@@ -6,7 +6,7 @@
         <div class="col-md-6">
           <div class="about-content">
             <h2>Hello, I'm <span class="ezy-name">Ezy</span></h2>
-            <p>"Someone who works hard to get what they want."</p>
+            <p>"Someone who works hard to get what he wants."</p>
             <div class="social-links mt-3">
               <a href="https://github.com/zyy993" target="_blank" class="mr-3">
                 <i class="fab fa-github"></i> GitHub

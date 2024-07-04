@@ -2,10 +2,18 @@
   <div id="app">
     <Navbar />
     <main>
-      <HeroSection />
-      <AboutSection />
-      <ProjectsSection />
-      <ContactSection />
+      <div id="home">
+        <HeroSection />
+      </div>
+      <div id="about">
+        <AboutSection />
+      </div>
+      <div id="projects">
+        <ProjectsSection />
+      </div>
+      <div id="contact">
+        <ContactSection />
+      </div>
     </main>
     <footer class="footer">
       <p>
@@ -40,12 +48,14 @@ export default {
 </script>
 
 <style>
-/* Global styles for the entire application */
+
 
 #app {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-color: #161616;
+
 }
 
 main {
@@ -66,6 +76,31 @@ main {
 }
 
 .footer span {
-  color: #fd8791; /* Secondary color */
+  color: #fd8791;
+}
+
+
+#home, #about, #projects, #contact {
+  padding: 50px 15px;
+  background-color: #161616;
+  border: 1px solid #161616;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+#home {
+  background-color: #161616; 
+}
+
+#about {
+  background-color: #161616; 
+}
+
+#projects {
+  background-color: #161616; 
+}
+
+#contact {
+  background-color: #161616; 
 }
 </style>

@@ -23,14 +23,14 @@
     <p><strong>Yang digunakan:</strong> HTML, CSS, JavaScript, Laravel, MySQL</p>
   </div>
   <div class="project">
-    <h3>Platform Blogging</h3>
-    <p>Platform blogging yang memungkinkan pengguna untuk membuat, mengedit, dan menghapus postingan, serta menambahkan komentar.</p>
-    <p><strong>Teknologi:</strong> Vue.js, Node.js, Express, MongoDB</p>
+    <h3>Penawaran Destinasi</h3>
+    <p>Situs web untuk mempromosikan destinasi yang rekomended untuk sekarang.</p>
+    <p><strong>Yang digunakan:</strong> HTML, CSS, Javascript, React.js</p>
   </div>
   <div class="project">
-    <h3>Aplikasi Manajemen Keuangan</h3>
-    <p>Aplikasi yang membantu pengguna untuk melacak pendapatan dan pengeluaran mereka.</p>
-    <p><strong>Teknologi:</strong> Vue.js, Chart.js, Firebase</p>
+    <h3>Stories Destination</h3>
+    <p>Situs web yang mempermudah orang untuk melihat deskripsi tentang destinasi yang ada di indonesia.</p>
+    <p><strong>Yang digunakan:</strong> HTML, CSS, Javascript, React.js</p>
   </div>
 </div>
 
